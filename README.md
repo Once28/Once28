@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Once28
-- 👀 I’m interested in Data Science and Human Computer Interaction
-- 🌱 I’m currently learning SQL, R, Java.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science and Software Engineering
+- 🌱 I’m currently learning SQL, Java, and Python
+- 💞️ I’m looking to collaborate on TalkStock
 - 📫 How to reach me jzenguw@uw.edu
 
 <!---
