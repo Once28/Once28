@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Software Engineering
 - 🌱 I’m currently learning SQL, Java, and Python
 - 💞️ I’m looking to collaborate on TalkStock
-- 📫 How to reach me jzenguw@uw.edu
+- 📫 How to reach me justinzeng007@gmail.com
 
 <!---
 Once28/Once28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
