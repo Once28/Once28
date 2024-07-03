@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Once28
 - 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently learning SQL, Java, and Python
+- 🌱 I’m currently researching Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on TalkStock
 - 📫 How to reach me justinzeng007@gmail.com
 
