@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Once28
-- 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently researching at Columbia University Irving Medical Center on the effects of TXA drugs during general anesthesia surgeries
-- 💞️ I’m looking to collaborate on procurement AI project
+- 👀 I’m interested in Data Science and Deep Learning
+- 🌱 I’m currently researching at Columbia University Irving Medical Center and Barnard College
 - 📫 How to reach me jz3886@columbia.edu
 
 <!---
